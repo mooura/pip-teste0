@@ -41,4 +41,4 @@ See [VERSIONS.md](./VERSIONS.md) for the full version history across all branche
 
 ## License
 
-MIT – see [LICENSE](./LICENSE) for details.
+MIT

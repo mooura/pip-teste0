@@ -20,6 +20,8 @@ Documentation and project overview only – no runtime artifacts.
 - **4.0.0-rc2** – Playlist navigation improvements
 - **4.0.0-rc1** – Initial release candidate based on v3.x stable
 
+See [docs/branches/fix4-rc6.md](./docs/branches/fix4-rc6.md) for full details.
+
 ---
 
 ## Branch: `pip12h4-hotfix8` – Development
@@ -37,3 +39,5 @@ Documentation and project overview only – no runtime artifacts.
 - **12.4.0** – Advanced AutoReturn engine introduced
 - **12.3.0** – Multi-window orchestration
 - **12.2.0** – WebExtension Manifest V3 migration
+
+See [docs/branches/pip12h4-hotfix8.md](./docs/branches/pip12h4-hotfix8.md) for full details.
